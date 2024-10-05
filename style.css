@@ -1,0 +1,10 @@
+.active{
+    background-color: red;
+    color: white;
+}
+
+.category-btn{
+    padding: 12px;
+    border-radius: 16px;
+}
+
